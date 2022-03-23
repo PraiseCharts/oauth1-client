@@ -7,7 +7,7 @@ This package provides PraiseCharts OAuth 1.0 support for the PHP League's [OAuth
 To install, use composer:
 
 ```
-composer require praisecharts/oauth1-praisecharts
+composer require praisecharts/oauth1-client
 ```
 
 ## Usage
