@@ -12,7 +12,7 @@ composer require praisecharts/oauth1-praisecharts
 
 ## Usage
 
-Usage is the same as The League's OAuth client, using `Wheniwork\OAuth1\Client\Server\Intuit` as the provider.
+Usage is the same as The League's OAuth client, using `PraiseCharts\OAuth1\Client\Server\PraiseCharts` as the provider.
 
 ```php
 $server = new PraiseCharts\OAuth1\Client\Server\PraiseCharts(array(
